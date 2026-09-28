@@ -1,0 +1,7 @@
+{
+  "name": "AI Chat",
+  "description": "Multi-AI workforce orchestration application connecting multiple AI accounts into coordinated Managers, Callers, Workers, and Filters with staged availability checking, complete project archive, and direct chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
